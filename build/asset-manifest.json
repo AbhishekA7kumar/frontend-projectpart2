@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ecf1e91.css",
+    "main.js": "/static/js/main.9dfff21f.js",
+    "static/media/c4-img.png": "/static/media/c4-img.47355b1bcac2b4766068.png",
+    "static/media/c2-img.png": "/static/media/c2-img.a2d1c5026574f9544908.png",
+    "static/media/c1-img.png": "/static/media/c1-img.8a00925576a2be580ff9.png",
+    "static/media/weather.png": "/static/media/weather.c680eb993c7b4b122b13.png",
+    "static/media/crypto.png": "/static/media/crypto.11846124b5bb1edfdc09.png",
+    "static/media/10.png": "/static/media/10.ae14651cea33186e81f2.png",
+    "static/media/9.png": "/static/media/9.b7589a390ba601fc5bb6.png",
+    "static/media/7.png": "/static/media/7.8d27fe39d0ff8445c7b8.png",
+    "static/media/4.png": "/static/media/4.b5115067d769554a08b8.png",
+    "static/media/1.png": "/static/media/1.ce895383e48028a2ab72.png",
+    "static/media/2.png": "/static/media/2.4b566903d2c08a5ce8b8.png",
+    "static/media/11.png": "/static/media/11.f7f8b014b430c4c5e358.png",
+    "static/media/3.png": "/static/media/3.3b848b52cd1314c33f4b.png",
+    "static/media/5.png": "/static/media/5.f592bcdf792966bc20cc.png",
+    "static/media/12.png": "/static/media/12.d11f21b16d6281d6301c.png",
+    "static/media/8.png": "/static/media/8.2ac6db81f52d1507b5d6.png",
+    "static/media/6.png": "/static/media/6.ea470cef99d31b2939ed.png",
+    "static/media/css1.png": "/static/media/css1.a3653376f23f8c49cb10.png",
+    "static/media/netlify.png": "/static/media/netlify.1aa9d38d068f87785568.png",
+    "static/media/Html.png": "/static/media/Html.8a753f9be533ad475552.png",
+    "static/media/Todo.png": "/static/media/Todo.0c2179520e942c010570.png",
+    "static/media/java.png": "/static/media/java.f780afe07d5af2591547.png",
+    "static/media/bootstrap-logo-shadow.png": "/static/media/bootstrap-logo-shadow.f132cb791703420e69ca.png",
+    "static/media/react.png": "/static/media/react.727889450528706952fa.png",
+    "static/media/git.png": "/static/media/git.b56bb382220373fd8b14.png",
+    "static/media/mysql.png": "/static/media/mysql.e5b31874cbd34968fb59.png",
+    "static/media/Javascript.png": "/static/media/Javascript.036f2b008bef3f4033db.png",
+    "static/media/tailwind.png": "/static/media/tailwind.7cf71168010b0039a1e1.png",
+    "index.html": "/index.html",
+    "main.1ecf1e91.css.map": "/static/css/main.1ecf1e91.css.map",
+    "main.9dfff21f.js.map": "/static/js/main.9dfff21f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ecf1e91.css",
+    "static/js/main.9dfff21f.js"
+  ]
+}
