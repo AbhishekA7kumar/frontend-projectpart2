@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import 'bootstrap/dist/css/bootstrap.min.css'; 
+
 
 const About = () => {
   const scrollToContact = () => {
